@@ -34,4 +34,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## Patika
 
-[patika.dev](https://app.patika.dev/)
+[patika.dev profilim](https://app.patika.dev/silentscream)
